@@ -1,2 +1,2 @@
 ## 项目演示视频
-<video src="Java五子棋2312481-陈安琪/介绍视频.mp4" controls width="600"></video>
+<video src="https://github.com/aaanqiChen/C-_fightGame/releases/download/v1.0.0-demo/介绍视频.mp4" controls width="600"></video>
